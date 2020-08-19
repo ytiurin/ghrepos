@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ghrepos/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ghrepos/static/js/main.e6c2161a.chunk.js",
+    "main.js.map": "/ghrepos/static/js/main.e6c2161a.chunk.js.map",
+    "runtime-main.js": "/ghrepos/static/js/runtime-main.faebb3df.js",
+    "runtime-main.js.map": "/ghrepos/static/js/runtime-main.faebb3df.js.map",
+    "static/js/2.2ec2fc39.chunk.js": "/ghrepos/static/js/2.2ec2fc39.chunk.js",
+    "static/js/2.2ec2fc39.chunk.js.map": "/ghrepos/static/js/2.2ec2fc39.chunk.js.map",
+    "index.html": "/ghrepos/index.html",
+    "precache-manifest.98f9e3308e02bbb7e04f0405706e5423.js": "/ghrepos/precache-manifest.98f9e3308e02bbb7e04f0405706e5423.js",
+    "service-worker.js": "/ghrepos/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ghrepos/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2ec2fc39.chunk.js.LICENSE.txt": "/ghrepos/static/js/2.2ec2fc39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faebb3df.js",
+    "static/js/2.2ec2fc39.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e6c2161a.chunk.js"
+  ]
+}
